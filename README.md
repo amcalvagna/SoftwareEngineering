@@ -1,1 +1,1 @@
-### codice degli esempi presentati a lezione come esercitazione in aula
+### codice degli esempi presentati a lezione come esercitazioni in aula
