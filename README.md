@@ -1,2 +1,1 @@
-### /codice contiene un esempio di implementazione di una struttura di tipo stack con eccezioni e generics 
-### /Studente contiene un esempio di utilizzo di ereditarietà e polimorfismo
+### codice degli esempi presentati a lezione come esercitazione in aula
